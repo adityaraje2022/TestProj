@@ -1,0 +1,15 @@
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\bin\Debug\net6.0\UniTTest.exe
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\bin\Debug\net6.0\UniTTest.deps.json
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\bin\Debug\net6.0\UniTTest.runtimeconfig.json
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\bin\Debug\net6.0\UniTTest.dll
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\bin\Debug\net6.0\UniTTest.pdb
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.csproj.AssemblyReference.cache
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.AssemblyInfoInputs.cache
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.AssemblyInfo.cs
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.csproj.CoreCompileInputs.cache
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.dll
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\refint\UniTTest.dll
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.pdb
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\UniTTest.genruntimeconfig.cache
+C:\Users\ADITYARAJE\source\repos\DotNetMicroservices\UniTTest\UniTTest\obj\Debug\net6.0\ref\UniTTest.dll
